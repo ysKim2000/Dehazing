@@ -1,0 +1,7 @@
+.vscode/launch.json
+__pycache__/
+papers/
+drop/
+outputs/
+assessment/data
+assessment/images
